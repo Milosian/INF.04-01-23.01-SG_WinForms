@@ -1,0 +1,14 @@
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\bin\Debug\net8.0\NWD.exe
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\bin\Debug\net8.0\NWD.deps.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\bin\Debug\net8.0\NWD.runtimeconfig.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\bin\Debug\net8.0\NWD.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\bin\Debug\net8.0\NWD.pdb
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.AssemblyInfoInputs.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.AssemblyInfo.cs
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.csproj.CoreCompileInputs.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\refint\NWD.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.pdb
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\NWD.genruntimeconfig.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\konsola\NWD\obj\Debug\net8.0\ref\NWD.dll

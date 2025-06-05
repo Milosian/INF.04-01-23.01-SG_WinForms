@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E246BA-8BC9-4270-BA67-FAA12B2B6EBC}|FormularzPracownika.csproj|d:\\code\\college_code\\egzaminy\\inf_04\\inf.04-01-23.01-sg\\desktopowa\\formularzpracownika\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E246BA-8BC9-4270-BA67-FAA12B2B6EBC}|FormularzPracownika.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E246BA-8BC9-4270-BA67-FAA12B2B6EBC}|FormularzPracownika.csproj|D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08E246BA-8BC9-4270-BA67-FAA12B2B6EBC}|FormularzPracownika.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E246BA-8BC9-4270-BA67-FAA12B2B6EBC}|FormularzPracownika.csproj|d:\\code\\college_code\\egzaminy\\inf_04\\inf.04-01-23.01-sg\\desktopowa\\formularzpracownika\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E246BA-8BC9-4270-BA67-FAA12B2B6EBC}|FormularzPracownika.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1064929357:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwIwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:47:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:03:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-01-23.01-SG\\desktopowa\\FormularzPracownika\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:49:34.048Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

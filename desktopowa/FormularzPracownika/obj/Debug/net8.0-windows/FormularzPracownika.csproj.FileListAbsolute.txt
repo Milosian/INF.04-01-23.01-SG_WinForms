@@ -1,0 +1,16 @@
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\bin\Debug\net8.0-windows\FormularzPracownika.exe
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\bin\Debug\net8.0-windows\FormularzPracownika.deps.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\bin\Debug\net8.0-windows\FormularzPracownika.runtimeconfig.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\bin\Debug\net8.0-windows\FormularzPracownika.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\bin\Debug\net8.0-windows\FormularzPracownika.pdb
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.Form1.resources
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.csproj.GenerateResource.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.AssemblyInfoInputs.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.AssemblyInfo.cs
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.csproj.CoreCompileInputs.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\refint\FormularzPracownika.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.pdb
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\FormularzPracownika.genruntimeconfig.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-01-23.01-SG\desktopowa\FormularzPracownika\obj\Debug\net8.0-windows\ref\FormularzPracownika.dll
